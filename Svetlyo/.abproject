@@ -1,0 +1,37 @@
+{
+  "ProjectName": "Svetlyo",
+  "ProjectGuid": "d4ad3e0e-ce24-49bf-a1ea-1767e972074a",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Svetlyo",
+  "DisplayName": "Svetlyo",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{dcfba401-6757-4ed5-837d-4bee7b8fa287}",
+  "WP8ProductID": "{8b69bab5-0780-4ce3-8013-76a283f7dbc0}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
